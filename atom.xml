@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://eschen2013.github.io/atom.xml" rel="self"/>
   <link href="http://eschen2013.github.io/"/>
-  <updated>2013-10-21T20:50:23-04:00</updated>
+  <updated>2013-10-21T21:18:44-04:00</updated>
   <id>http://eschen2013.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Git is Good]]></title>
+    <link href="http://eschen2013.github.io/blog/2013/10/21/git-is-good/"/>
+    <updated>2013-10-21T21:08:00-04:00</updated>
+    <id>http://eschen2013.github.io/blog/2013/10/21/git-is-good</id>
+    <content type="html"><![CDATA[<h2>Git is Good</h2>
+
+<p>I like Git. Git is good. Git makes me happy.</p>
+]]></content>
+  </entry>
   
 </feed>
